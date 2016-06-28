@@ -3,6 +3,9 @@
 EasyPermissions is a wrapper library to simplify basic system permissions logic when targeting
 Android M or higher.
 
+![](./screen/示例图.gif)
+
+
 ## Installation
 
 EasyPermissions is installed by adding the following dependency to your `build.gradle` file:
